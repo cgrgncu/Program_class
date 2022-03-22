@@ -6,4 +6,6 @@
     + 圖形化使用者介面(GUI)或稱視窗程式。互動式的操作方式:鍵盤+滑鼠。
 
   + 直譯式語言 (MATLAB、Python、PHP、JavaScript)
+    + MATLAB.exe script.m
   + 編譯式語言 (C/C++、Fortran、C#)
+    + xxx.c -> xxx.exe  , 使用Windows執行xxx.exe 
